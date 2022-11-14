@@ -29,7 +29,7 @@ import com.alicp.jetcache.anno.Cached;
 @Service
 public class WeatherService {
     private final String URI = "http://api.openweathermap.org/data/2.5/forecast";
-    private final String API_ID = "7cde1336aaafbe40cb99aa605e6152bc";
+    private final String API_ID = "API_ID";
 
     private final RestTemplate restTemplate;
 

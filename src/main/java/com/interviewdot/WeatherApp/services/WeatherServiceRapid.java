@@ -27,7 +27,7 @@ import java.util.stream.Collectors;
 public class WeatherServiceRapid {
    // private final String URI = "https://visual-crossing-weather.p.rapidapi.com/forecast";
     //https://visual-crossing-weather.p.rapidapi.com/forecast?aggregateHours=24&location=pune
-    private final String API_ID = "526fd346bfmshe9bacfd11b196ebp157b73jsnccf442657502";
+    private final String API_ID = "API_ID";
 
     private final RestTemplate restTemplate;
 
